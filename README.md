@@ -4,8 +4,6 @@
 
 ## Description  
 Site fictif développé avec une orientation back-end.  
-Réalisé en PHP, TWIG, MySQL et Bootstrap.
-
 Le site est centré sur le thème de la couture, avec 4 types d’utilisateurs : **administrateur**, **professionnel**, **membre**, et **visiteur**.  
 Un système de forum est intégré, avec gestion des contenus selon les rôles.
 
