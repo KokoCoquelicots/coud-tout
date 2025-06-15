@@ -1,6 +1,6 @@
-# CoudTout – Site fictif
+# Coud'Tout – Site fictif
 
-![Image du projet](URL_DE_TON_IMAGE)
+![Image du projet](coudtout_accueil.png)
 
 ## Description  
 Site fictif développé avec une orientation back-end.  
