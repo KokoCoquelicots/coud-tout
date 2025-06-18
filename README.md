@@ -5,7 +5,7 @@
 ## Description  
 Site fictif développé avec une orientation back-end.  
 Le site est centré sur le thème de la couture, avec 4 types d’utilisateurs : **administrateur**, **professionnel**, **membre**, et **visiteur**.  
-Un système de forum est intégré, avec gestion des contenus selon les rôles.
+Un système de forum est intégré pour la version PHP(sans Symfony), avec gestion des contenus selon les rôles.
 
 Fonctionnalités principales :  
 - Ajout / modification / suppression d’articles  
